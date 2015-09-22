@@ -56,7 +56,7 @@ var app = angular.module('myApp', ['acrBackstretch']);
 </code>
 
 ### Parameters
-fade: [numbers] in miliseconds (i.e. 1000 is 1 second)
+fade: [numbers] in miliseconds (i.e. 1000 is 1 second)<br>
 fillheight: [number] in pixels (i.e. 400 is 400px)
 
 
