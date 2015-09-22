@@ -11,15 +11,15 @@ A simple directive for Scott Robinson's Backstretch jQuery plugin.
 &#x3C;div backstretch fillheight=&#x27;1200&#x27; fillsrc=&#x22;'image/image.js'&#x22; fade=&#x27;500&#x27;&#x3E;&#x3C;/div&#x3E;
 </code>
 
+### Live Demo 
+[Check it out](https://allenroyston.herokuapp.com/access/acr-backstretch/index.html "Title")
+
+
 ### Version
 1.0.0
 
 ### Updates
  - None
-
-### Live Demo 
-[Check it out](https://allenroyston.herokuapp.com/access/acr-backstretch/index.html "Title")
-
 
 ### Dependencies
 - jQuery  (not included)
