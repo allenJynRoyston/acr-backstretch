@@ -1,0 +1,19 @@
+{
+  "name": "acr-backstretch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allenRoyston/acr-backstretch.git"
+  },
+  "author": "Allen Royston <allen.acr@gmail.com> (https://allenroyston.herokuapp.com/access/ng-backstretch/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/allenRoyston/acr-backstretch/issues"
+  },
+  "homepage": "https://github.com/allenRoyston/acr-backstretch#readme"
+}
