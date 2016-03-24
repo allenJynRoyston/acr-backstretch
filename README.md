@@ -50,10 +50,6 @@ Add acrBackstretch in your apps dependencies.<br>
 var app = angular.module('myApp', ['acrBackstretch']);
 </code>
 
-### Usage
-<code>
-&lt;div backstretch fillheight='400' fillsrc="'http://lorempixel.com/100/100/city/1'" fade='500'&gt; &lt; /div&gt; 
-</code>
 
 ### Parameters
 fade: [numbers] in miliseconds (i.e. 1000 is 1 second)<br>
