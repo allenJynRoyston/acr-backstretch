@@ -52,7 +52,7 @@ var app = angular.module('myApp', ['acrBackstretch']);
 
 ### Usage
 <code>
-&lt;div ng-parallax pattern="myPattern" speed="0"&gt; &lt; /div&gt; 
+&lt;div backstretch fillheight='400' fillsrc="'http://lorempixel.com/100/100/city/1'" fade='500'&gt; &lt; /div&gt; 
 </code>
 
 ### Parameters
