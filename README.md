@@ -1,5 +1,5 @@
 # acr-backstretch
-### *Updated 4/6/2016
+##### *Updated 4/6/2016
 
 ### What Am I?!
 A simple directive for Scott Robinson's Backstretch jQuery plugin.
