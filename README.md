@@ -9,7 +9,7 @@ A simple directive for Scott Robinson's Backstretch jQuery plugin.
 
 ### Usage
 <code>
-&#x3C;div backstretch fillheight=&#x27;300&#x27; fillsrc=&#x22;'image/image.js'&#x22; fade=&#x27;500&#x27;&#x3E;&#x3C;/div&#x3E;
+&#x3C;div backstretch fillheight=&#x27;300&#x27; fillsrc=&#x22;'image/image.js'&#x22;  fallback=&#x22;'image/anotherimage.js'&#x22; fade=&#x27;500&#x27;&#x3E;&#x3C;/div&#x3E;
 </code>
 
 ### Live Demo 
