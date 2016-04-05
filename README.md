@@ -61,7 +61,7 @@ var app = angular.module('myApp', ['acrBackstretch']);
 
 ### Parameters
 fade: [numbers] in miliseconds (i.e. 1000 is 1 second)<br>
-fillheight: [number] in pixels (i.e. 400 is 400px)
+fillheight: [number] in pixels (i.e. 400 is 400px)<br>
 fallback: [string/url] location of fallback image if desired image (fillsrc) does not exist
 
 
