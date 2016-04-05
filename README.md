@@ -1,4 +1,5 @@
 # acr-backstretch
+### *Updated 4/6/2016
 
 ### What Am I?!
 A simple directive for Scott Robinson's Backstretch jQuery plugin.
@@ -54,7 +55,7 @@ var app = angular.module('myApp', ['acrBackstretch']);
 ### Parameters
 fade: [numbers] in miliseconds (i.e. 1000 is 1 second)<br>
 fillheight: [number] in pixels (i.e. 400 is 400px)
-
+fallback: [string/url] location of fallback image if desired image (fillsrc) does not exist
 
 
 
