@@ -16,7 +16,7 @@ angular.module('acrBackstretch', []).directive('backstretch', [
                 duration: scope.duration || 500,
                 fade: scope.fade || 500,
                 fillheight: scope.fillheight || 250,
-                fallback: scope.fallback || "http://lorempixel.com/400/200/technics/8/"
+                fallback: scope.fallback
               }
 
               $(elem).css({'width': 'auto',  'height': t.fillheight});
